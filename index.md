@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Yuhan Ye"
 ---
+
 
 
 # Hi, I'm Yuhan Ye  
