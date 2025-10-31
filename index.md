@@ -1,8 +1,3 @@
----
-layout: default
-title: "Yuhan Ye"
----
-
 # Hi, I'm Yuhan Ye  
 Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & Università della Svizzera italiana (USI). I am on the 2025–2026 academic job market.
 
