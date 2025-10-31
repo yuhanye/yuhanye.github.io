@@ -1,0 +1,10 @@
+<!-- Custom sidebar without the GitHub profile link -->
+<h1 class="site-title">{{ site.title | markdownify }}</h1>
+
+{% if site.logo %}
+  <img src="{{ site.logo | relative_url }}" alt="profile" />
+{% endif %}
+
+<div class="site-description">
+  {{ site.description | markdownify }}
+</div>
