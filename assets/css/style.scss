@@ -2,6 +2,15 @@
 ---
 @import "{{ site.theme }}";
 /* ---------- Custom Top Navigation Bar ---------- */
+
+/* ---------- Custom Layout Adjustments ---------- */
+.wrapper {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 40px;
+}
+
+
 .topnav {
   display: flex;
   justify-content: center;
