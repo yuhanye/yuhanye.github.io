@@ -13,12 +13,13 @@
 
 .topnav {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   gap: 24px;
-  margin: 12px 0 24px;
+  margin: 12px 3rem 24px 0;  /* 新增右边留白 3rem */
   padding-bottom: 8px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; /* 稍加深一点更清晰 */
 }
+
 
 .topnav a {
   color: #333;
