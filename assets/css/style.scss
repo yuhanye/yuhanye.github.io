@@ -4,11 +4,11 @@
 /* ---------- Custom Top Navigation Bar ---------- */
 .topnav {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   gap: 24px;
   margin: 12px 0 24px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
 }
 
 .topnav a {
