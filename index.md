@@ -45,7 +45,7 @@ We decompose global analyst forecasts into soft information, bias, and noise, pr
 
 ### *Who Adapts Faster in Crises? Global Evidence from Human and Machine Forecasts*
 
-Humans adapt faster at the onset of crises, while machines catch up and outperform as new regimes stabilize—revealing fundamental differences in learning dynamics.  
+Humans adapt faster at the onset of crises, while machines catch up and outperform as new regimes stabilize, revealing fundamental differences in learning dynamics.  
 
 **Presentations:** SFI Research Days 2024, USI Lugano Reading Group
 
