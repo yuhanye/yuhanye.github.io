@@ -13,8 +13,27 @@
 #   owner_url: ""
 #   repository_url: ""
 
-title: "Yuhan Ye | Finance | Swiss Finance Institute"
-description: "Yuhan Ye, PhD Candidate in Finance at the Swiss Finance Institute and University of Lugano. Research on machine learning, earnings forecasts, global information environments, and human–machine prediction."
+
+
+# title: "Yuhan Ye | Finance | Swiss Finance Institute"
+# description: "Yuhan Ye, PhD Candidate in Finance at the Swiss Finance Institute and University of Lugano. Research on machine learning, earnings forecasts, global information environments, and human–machine prediction."
+# theme: jekyll-theme-minimal
+# logo: /assets/profile.JPG
+# show_downloads: false
+# footer: false
+# github:
+#   is_project_page: false
+#   owner_url: ""
+#   repository_url: ""
+
+
+
+title: "<span style='white-space: nowrap;'>Yuhan Ye <span style='font-size:90%;'>(叶禹含)</span></span>"
+description: "<p style='text-align:center; font-size:90%; color:gray; margin-top:10px;'>
+<a href='https://www.linkedin.com/in/yuhan-ye77/' style='color:gray; text-decoration:none;'>LinkedIn</a> │ 
+<a href='https://www.sfi.ch/en/people/yuhan-ye' style='color:gray; text-decoration:none;'>SFI Profile</a> │ 
+<a href='https://search.usi.ch/en/people/12fe19968bc63b6bdbe84d3eea7a5a4c/ye-yuhan' style='color:gray; text-decoration:none;'>USI Profile</a>
+</p>"
 theme: jekyll-theme-minimal
 logo: /assets/profile.JPG
 show_downloads: false
@@ -23,6 +42,7 @@ github:
   is_project_page: false
   owner_url: ""
   repository_url: ""
+
 
 
 
