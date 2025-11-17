@@ -20,8 +20,7 @@ Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & University of Lugano
 
 ---
 ## Job Market Paper
-### *[Does Better Information Favor Humans or Machines? Evidence from Global Earnings Forecasts](/assets/cv/JMP_YuhanYe_latest.pdf)*  
-[📄 PDF](/assets/cv/JMP_YuhanYe_latest.pdf) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5731185)
+### *[Does Better Information Favor Humans or Machines? Evidence from Global Earnings Forecasts](/assets/cv/JMP_YuhanYe_latest.pdf)*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5731185)
 
 
 <details open>
