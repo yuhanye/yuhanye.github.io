@@ -5,7 +5,7 @@ layout: default
 
 
 # Hi, I'm Yuhan Ye  
-Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & University of Lugano (USI). I am on the 2025–2026 academic job market.
+Ph.D. Candidate in Finance, Swiss Finance Institute (SFI) & University of Lugano (USI). I am on the 2025–2026 job market.
 
 
 ---
